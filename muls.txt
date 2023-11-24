@@ -1,0 +1,3 @@
+private int muls (int n){
+   return n;
+}
